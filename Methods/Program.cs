@@ -32,6 +32,8 @@
             basketManager.Add(product1);
             basketManager.Add(product2);
 
+            basketManager.Add2("Armut", "Yeşil Armut", 12,10);
+            basketManager.Add2("Elma", "Yeşil Elma", 12,9);
         }
     }
 }
